@@ -1,0 +1,15 @@
+Decentralised CrowdFunding
+● People can fund the contract.
+● List of people and their donated amount is stored.
+● Even if people directly send funds to the contract without calling any specific function, they should be considered as donors.
+● Only the owner should be able to withdraw funds.
+● All donors' lists should be reset after withdrawal for that cause.
+● Set a limit of 1 BUSD for anyone to fund.
+
+
+● I have use 1 BUSD to Eth...
+    - User needs to deposit 1 BUSD equivalent Eth. But the contract is deployed at BSC testNet in place of eth, I have send that much amount of BNB.
+
+The contract is deployed at :
+    https://testnet.bscscan.com/address/0x3c4CEb4446cD8B02230A0DdaB1C0435Eb35da40C
+
